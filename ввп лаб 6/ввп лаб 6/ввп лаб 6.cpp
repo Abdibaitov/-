@@ -100,7 +100,7 @@ void task6() {
 		cout << "Число в степени 2 =\t" << z << endl;
 		z = z * x;
 		cout << "Число в степени 4 =\t" << z << endl;
-		z = z * x;
+		z = z * z;
 		cout << "Число в степени 8 =\t" << z << endl;	
 }
 void task7() {
