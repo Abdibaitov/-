@@ -17,7 +17,7 @@ int main() {
 void task1() {
 	cout << "task 1 " << endl;
 	setlocale(LC_ALL, "Rus");
-	int b, kb;
+	float b, kb;
 	cout << "Введите байт: ";
 	cin >> b;
 	kb = int(b / 1024);
